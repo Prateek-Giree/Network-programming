@@ -1,7 +1,7 @@
 //Downloading the content of a webpage
 import java.io.*;
 import java.net.*;
-public class SourceViewer {
+public class Lab5 {
     public static void main(String[] args) {
         InputStream in = null;
         try {

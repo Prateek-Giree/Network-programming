@@ -1,6 +1,6 @@
 import java.nio.CharBuffer;
 
-public class BufferMethodsDemo {
+public class Lab13 {
     public static void main(String[] args) {
         CharBuffer buffer= CharBuffer.allocate(15);
         String text = "Prateek Giree";
